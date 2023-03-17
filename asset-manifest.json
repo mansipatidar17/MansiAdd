@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MansiAdd/static/css/main.e6c13ad2.css",
+    "main.js": "/MansiAdd/static/js/main.6c18db70.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MansiAdd/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/MansiAdd/index.html",
+    "main.e6c13ad2.css.map": "/MansiAdd/static/css/main.e6c13ad2.css.map",
+    "main.6c18db70.js.map": "/MansiAdd/static/js/main.6c18db70.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MansiAdd/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6c18db70.js"
+  ]
+}
